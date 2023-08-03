@@ -1,0 +1,51 @@
+.expense-date {
+  padding: 5px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 5.5rem;
+  height: 5rem;
+  border: 3px solid rgb(210, 210, 233);
+  color: whitesmoke;
+  background-color: rgb(95, 51, 51);
+  border-radius: 12px;
+  margin: 0.5rem 1rem 0.5rem 0.5rem;
+}
+
+.expense-title {
+  padding: 20px;
+  margin: 0.5rem;
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(43, 21, 21);
+  width: 15rem;
+  /* background-color: rgb(95, 51, 51);
+     border: 3px solid rgb(210, 210, 233);
+    border-radius: 8px; */
+}
+.expense-amount {
+  padding: 20px;
+  margin: 0.5rem 1rem;
+  width: 8rem;
+  border: 3px solid rgb(210, 210, 233);
+  color: whitesmoke;
+  background-color: rgb(95, 51, 51);
+  border-radius: 8px;
+}
+.expense-date_month {
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 0px;
+  margin: 0px;
+}
+.expense-date_year {
+  font-size: 12px;
+  padding: 0px;
+  margin: 0px;
+}
+.expense-date_date {
+  font-size: 20px;
+  padding: 0px;
+  margin: 0px;
+}

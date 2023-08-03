@@ -1,0 +1,12 @@
+.expense-Container {
+  background-color: black;
+  width: 50%;
+  margin: 0rem auto;
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 2px solid black;
+  border-radius: 10px;
+}
